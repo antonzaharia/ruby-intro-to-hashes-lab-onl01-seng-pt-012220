@@ -9,7 +9,8 @@ end
 
 def monopoly
 	monopoly = {
-	  :rent_in_dollars => 
+	  :railroads => 
+	  
 	}
 
 end
