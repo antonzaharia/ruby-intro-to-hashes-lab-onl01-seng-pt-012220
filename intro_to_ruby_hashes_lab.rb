@@ -8,7 +8,9 @@ def actor
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = {
+	  :rent_in_dollars =
+	}
 
 end
 
